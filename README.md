@@ -1,7 +1,7 @@
 ## How to Use
 
 Run the scraper with:
-    python3 crypto_prices.py
+    `python3 crypto_prices.py`
 
 The program displays the current prices of Bitcoin, Ethereum, and
 Solana, along with the time taken to fetch them sequentially and
